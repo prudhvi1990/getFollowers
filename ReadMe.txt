@@ -8,6 +8,6 @@ For my development i used ApacheTomcat8.0.45.
 
 To run the api
 
-http://<host>:<port>/GitIdFollowers/rest/getFollowers/:userID
+http://<host>:<port>/GitIdFollowers/rest/getFollowers/:gituserID
 
 Example : http://localhost:8080/GitIdFollowers/rest/getFollowers/prudhvi1990
